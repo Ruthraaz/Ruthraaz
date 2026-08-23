@@ -22,11 +22,6 @@
 <br>
 
 <br>
-<div align="center">
-  <i>"Decifrando logs e compilando o futuro."</i>
-</div>
-
-<br>
 
 ### 🏆 Projetos em Destaque
 - **Pipeline de Automação de Vídeo:** Script robusto em Python (MoviePy, FFmpeg, Whisper) para renderização, mixagem de áudio e legendagem automática.
