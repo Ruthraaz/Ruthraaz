@@ -21,11 +21,6 @@
 
 <br>
 
-### 👾 Final Boss: Data Golem
-<div align="center">
-  <img src="./GolemS.jpg" width="100%" alt="Registeel Pixel Art Golem" />
-</div>
-
 <br>
 <div align="center">
   <i>"Decifrando logs e compilando o futuro."</i>
