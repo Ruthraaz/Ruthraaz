@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=250&section=header&text=Arthur&desc=Backend%20%26%20Data%20Engineering&fontSize=50&fontAlignY=35&descSize=20&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=250&section=header&text=Arthur&desc=Backend%20and%20Data%20Engineering&fontSize=50&fontAlignY=35&descSize=20&animation=twinkling" width="100%" />
 </div>
 
 <br>
@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruthraaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthraaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruhtraaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhtraaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
 </div>
 
 <br>
